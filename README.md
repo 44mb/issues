@@ -1,2 +1,3 @@
-# issues
-An issue tracker for the MB-38
+# The MB-38 has issues!
+
+This is an issue tracker for my MB-38
