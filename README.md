@@ -1,3 +1,3 @@
-# The MB-38 has issues!
+# The MB has issues!
 
-This is an issue tracker for my MB-38
+This is an issue tracker for my 1944 Willys MB
